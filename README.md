@@ -1,6 +1,6 @@
 # Tiny Oberon System
 
-Tiny Oberon System, a minimal (native) version of [projectoberon.com](http://www.projectoberon.com) that provides a minimal base system to build upon.
+Tiny Oberon System, a native version of [projectoberon.com](http://www.projectoberon.com) that provides a minimal base system to build upon.
 
 This project focuses on the bare essentials that make it an Oberon System (i.e. the main system loop, input and output (Viewer) handling.
 This implementation has the following goals:
