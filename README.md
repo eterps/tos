@@ -24,3 +24,5 @@ Things that are deliberately left out in a Tiny Oberon System:
 
 As a consequence a Tiny Oberon System has no way to load and execute applications on its own, requiring applications to be hardcoded and to recompile the system.
 The most logical subsequent step is to add a loader, which arguably would need a compiler first (OBNC doesn't produce Oberon .Obj files). To shorten the distance one could decide to [use an existing assembler to build a raw binary](https://www.nasm.us/doc/nasmdoc7.html#section-7.1.3) formatted as Oberon module object file and focus on building the loader first.
+
+![](https://i.imgur.com/CU32coq.png)
