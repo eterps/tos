@@ -1,11 +1,11 @@
 # Tiny Oberon System
 
-Tiny Oberon System, a native version of [projectoberon.com](http://www.projectoberon.com) that provides a minimal base system to build upon.
+Tiny Oberon System, a native subset of [projectoberon.com](http://www.projectoberon.com) that provides a minimal base system to build upon.
 
 This project focuses on the bare essentials that make it an Oberon System (i.e. the main system loop, input and output (Viewer) handling.
 This implementation has the following goals:
 
-* Very small and understandable code base
+* Very small and understandable code base (a subset of the [Project Oberon](http://www.projectoberon.com) code, not a re-imagination)
 * Native compilation using the [OBNC](http://miasap.se/obnc/) compiler
 * [SDL](https://www.libsdl.org/) based graphics
 
